@@ -1,0 +1,3 @@
+[submodule "window-engine"]
+	path = window-engine
+	url = https://github.com/kladief/window-engine.git
